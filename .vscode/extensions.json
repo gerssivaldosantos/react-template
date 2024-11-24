@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "editorconfig.editorconfig",
+    "stivo.tailwind-fold",
+    "vitest.explorer",
+    "biomejs.biome"
+  ]
+}
